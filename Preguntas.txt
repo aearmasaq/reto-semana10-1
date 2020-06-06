@@ -1,0 +1,8 @@
+•¿Como defines una función?
+
+Es un subprograma que puede ser llamado por código externo o interno, a la función. Al igual que el programa en sí mismo, una función se compone de una secuencia de declaraciones, que conforman el llamado cuerpo de la función. Se pueden pasar valores a una función, y la función puede devolver un valor.
+
+
+•¿Hasta cuantos argumentos puedes declarer en una función?
+
+Se pueden pasar muchos arguementos dependiendo del la web  ya que es similar a un array y estos pueden ser leidos por una funcion.
